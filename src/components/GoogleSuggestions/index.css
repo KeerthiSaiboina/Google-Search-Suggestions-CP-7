@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.app-container {
+}
+.suggestion-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 200px;
+  width: 650px;
+}
+.search-input {
+  height: 50px;
+  width: 590px;
+  border-color: #bfbfbf;
+  border-radius: 8px;
+}
+.search-container {
+}
+.search-logo {
+  height: 20px;
+  width: 40px;
+}
